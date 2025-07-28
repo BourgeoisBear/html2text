@@ -16,12 +16,6 @@ There are still lots of improvements to be had, but FWIW this has worked fine fo
 
 It requires go 1.x or newer ;)
 
-## Download the package
-
-```bash
-go get github.com/BourgeoisBear.com/html2text
-```
-
 ## Example usage
 
 ### Library
@@ -32,7 +26,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/BourgeoisBear.com/html2text"
+	"github.com/BourgeoisBear/html2text"
 )
 
 func main() {
